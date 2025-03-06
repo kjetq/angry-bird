@@ -1,5 +1,6 @@
 Angry Birds in Python
 =====================
+Bấm vào đường link để xem hướng dẫn tải và cách chơi!
 [Youtube Video](https://www.youtube.com/watch?v=B7G5JtCFepE&feature=youtu.be)
 
 ![Alt text](/resources/images/angry-birds-image.png?raw=true "angry-birds")
