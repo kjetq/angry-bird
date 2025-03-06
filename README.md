@@ -12,22 +12,21 @@ pip install -r requirements.txt
 
 To play
 -------
-1. Clone the project.
-2. Open the src folder.
+1. Clone dự án.
+2. Mở thư mục src.
 3. `python main.py`
 
 Zero Gravity
 ------------
 ![Alt text](/resources/images/gravity-zero.png?raw=true "angry-birds")
-* To activate the "zero gravity mode" press key s.
-* To back to normal mode press key n.
-
+* Nhấn phím `s` để kích hoạt chế độ "không trọng lực".  
+* Nhấn phím `n` để quay lại chế độ bình thường.
 Activate &  Deactivate the wall
 -------------------------------
 ![Alt text](/resources/images/walls.png?raw=true "angry-birds")
-* To activate or deactivate the wall press key w.
+* Nhấn phím `w` để bật hoặc tắt tường.
 
-Join the project
+Tham gia dự án
 ----------------
-The project is Open Source. Feel free to contribute.
-Please help me to keep this project updated! Thanks you very much :)
+Dự án là **Mã nguồn mở**. Hãy tham gia đóng góp!  
+Mong bạn giúp duy trì và cập nhật dự án này. Cảm ơn rất nhiều! :)
