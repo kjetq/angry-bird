@@ -1,7 +1,10 @@
 Angry Birds in Python
 =====================
 Bấm vào đường link để xem hướng dẫn tải và cách chơi!
-[Youtube Video](https://www.youtube.com/watch?v=B7G5JtCFepE&feature=youtu.be)
+
+[Youtube Video](https://www.youtube.com/watch?v=B7G5JtCFepE&feature=youtu.be) Download and play game.
+
+[Youtube Video](https://www.youtube.com/watch?v=SUvY07IdD_4) Install and Setup Pygame.
 
 ![Alt text](/resources/images/angry-birds-image.png?raw=true "angry-birds")
 
